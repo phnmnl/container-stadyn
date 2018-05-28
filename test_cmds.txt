@@ -1,0 +1,2 @@
+which stadyn.R
+which Rscript
